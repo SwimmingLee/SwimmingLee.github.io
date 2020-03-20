@@ -1,7 +1,15 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Blog"
+    url: https://swimminglee.github.io
+  - title: "Projects"
+    url: https://naver.com
+  - title: "AboutMe"
+    url: https://naver.com
+  - title: "Reference"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+ 
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
