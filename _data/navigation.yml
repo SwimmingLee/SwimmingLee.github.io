@@ -4,10 +4,37 @@ main:
     url: https://swimminglee.github.io
   - title: "Projects"
     url: https://naver.com
+  - title: "Algorithms"
+    url: https://github.com/swimminglee/problemsolving
+  - title: "ComputerScience"
+    url: /cs/
   - title: "AboutMe"
     url: https://naver.com
   - title: "Reference"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+# computer science documentation links
+cs:
+  - title: Operating System
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+
+  - title: Database
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+        
+  - title: Network
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+        
+  - title: Data Stucture
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+        
 
 # documentation links
 docs:
